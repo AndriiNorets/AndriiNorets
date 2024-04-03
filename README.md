@@ -43,8 +43,5 @@ learning new things, and taking on extra responsibilities to grow as software en
 ---
 
 <h2>📊Stats</h2>
-<br>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriinorets&show_icons=true&locale=en&layout=compact" alt="andriinorets" />
-  </p>
-</br>
+
+![Andrii Norets top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andriinorets&layout=compact)
