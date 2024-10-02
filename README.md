@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I’m a student of Computer Science, with interest in <strong>Back-End development</strong>. I'm always looking forward to 
+I’m a student of Computer Science, with interest in <strong>Machine Learning/Data Science</strong>. I'm always looking forward to 
 learning new things, and taking on extra responsibilities to grow as software engineer and professional.
 
 <h5>Languages: Polish, English, Ukrainian, Russian.</h5>
@@ -28,7 +28,7 @@ learning new things, and taking on extra responsibilities to grow as software en
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,django" />
   </a>
 </p>
 
@@ -36,12 +36,6 @@ learning new things, and taking on extra responsibilities to grow as software en
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,c,cpp,cs,html,css,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,java,c,cpp,cs,html,css,bootstrap,git,latex" />
   </a>
 </p>
-
----
-
-<h2>📊Stats</h2>
-
-![Andrii Norets top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andriinorets&layout=compact)
