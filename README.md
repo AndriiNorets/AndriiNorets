@@ -36,6 +36,6 @@ learning new things, and taking on extra responsibilities to grow as software en
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,c,cpp,cs,html,css,bootstrap,git,latex" />
+    <img src="https://skillicons.dev/icons?i=mysql,java,c,html,css,bootstrap,git,latex" />
   </a>
 </p>
