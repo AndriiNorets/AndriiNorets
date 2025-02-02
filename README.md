@@ -3,10 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I’m a student of Computer Science, with interest in <strong>Machine Learning/Data Science</strong>. I'm always looking forward to 
-learning new things, and taking on extra responsibilities to grow as software engineer and professional.
-
-<h5>Languages: Polish, English, Ukrainian, Russian.</h5>
+I'm a software developer focusing on the areas of Machine Learning and AI. Member of ["Czarna Magia" Student Artificial Intelligence Society](<https://github.com/knsiczarnamagia>).
 
 <h4 align="left">Connect with me:</h4>
 
@@ -22,20 +19,3 @@ learning new things, and taking on extra responsibilities to grow as software en
   </a>
 </p>
 
----
-
-<h2 align="left">Main skills:</h2>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,django" />
-  </a>
-</p>
-
-<h2 align="left">Additional skills:</h2>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,c,html,css,bootstrap,git,latex" />
-  </a>
-</p>
