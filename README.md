@@ -2,8 +2,10 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+AI/ML Engineer with a builder’s mindset and a work ethic. I enjoy hard working in a team-oriented environment
+delivering business value and driving high-quality solutions :)
 
-I'm a software developer focusing on the areas of Machine Learning and AI. Member of ["Czarna Magia" Student Artificial Intelligence Society](<https://github.com/knsiczarnamagia>).
+Board Member of ["Czarna Magia" Student Artificial Intelligence Society](<https://github.com/knsiczarnamagia>).
 
 <h4 align="left">Connect with me:</h4>
 
