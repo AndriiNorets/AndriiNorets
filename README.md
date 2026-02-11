@@ -21,3 +21,8 @@ Board Member of ["Czarna Magia" Student Artificial Intelligence Society](<https:
   </a>
 </p>
 
+| Project Name | Description | Role / Context | Technologies |
+|:---|:---|:---|:---|
+| **[Comparison of transfer learning and training from scratch methodologies in pneumonia classification based on X-ray images](<https://github.com/AndriiNorets/pneumonia-classification>)** | Deep learning system for pneumonia classification from chest X-rays. Focused on comparing transfer learning vs training from scratch. Features full MLOps implementation including experiment tracking, CI pipelines, and a deployment interface. | Diploma Thesis | `Python`, `PyTorch`, `Lightning AI`, `Poetry`, `Wandb`, `Gradio`, `Hydra`, `GitHub Actions` |
+| **GALIS** | Graph-Aware Language Intelligence System for automating related work sections in CS research papers. Built semantic citation graph from 169K papers using GNNs and LLM integration. **3rd Place, Amazon University Engagement Program 2025.** | Group project, my role: development of CI/CD pipelines, implementation of static typing and technical documentation | `Python`, `PyTorch Geometric`, `Google Gemini API`, `Docker`, `Poetry`, `Streamlit`, `OGBN-ArXiv` |
+| **[MagMap](<https://github.com/AndriiNorets/magmap>)** | Satellite-to-map image translation using GANs. Implemented and trained CycleGAN and DualGAN architectures. **Award: Best work in computerization of public administration (National Interuniversity Young Masters Competition 2025).** | Group project ('Czarna Magia' AI Society), mentored by industry expert from OPEGIEKA | `Python`, `PyTorch`, `PyTorch Lightning`, `Hydra`, `Wandb`, `GitHub Actions` |
